@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SosnovichRoman, 19 year-old student
+- 👋 Hi, I’m @SosnovichRoman, 20 year-old student
 - 🎮 I’m interested in game development
 - 📖 I’m currently learning Unity and C# 
 - 🎓 I'm studying at BSUIR in the third year. At university, I dealt with programming languages such as C++, SQL and Java. In addition, in my repositories you can find my coursework (web application) written in ASP.NET 
