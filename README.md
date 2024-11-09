@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SosnovichRoman, 21 year-old student
+- 👋 Hi, I’m @SosnovichRoman
 - 📫 There are several ways to contact me:
 - My E-mail: sosnovichroman@gmail.com
 - My Telegram: https://t.me/normanrace
